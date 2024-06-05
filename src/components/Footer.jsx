@@ -3,8 +3,11 @@ export default function Footer() {
     <footer>
         <div>
             <h2>The Brutal Martain Landscape</h2>
-            <h1>APOD</h1>
+            <h1>APOD PROJECT</h1>
         </div>
+        <button>
+        <i className="fa-solid fa-circle-info"></i>
+        </button>
     </footer>
     )
 }
