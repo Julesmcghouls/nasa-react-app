@@ -47,3 +47,11 @@ footer {
   justify-content: space-between;
   gap: 1rem;
 }
+
+.bgGradient {
+
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(to top, #030615, transparent);
+}
