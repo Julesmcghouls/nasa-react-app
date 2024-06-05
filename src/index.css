@@ -3,8 +3,7 @@
   line-height: 1.5;
   font-weight: 400;
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: white;
   background-color: #030615;
 
   font-synthesis: none;
@@ -53,5 +52,5 @@ footer {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: linear-gradient(to top, #030615, transparent);
+  background: linear-gradient(to top, #030615, rgba(255, 255, 255, 0));
 }
