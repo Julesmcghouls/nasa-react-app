@@ -6,7 +6,7 @@ export default function SideBar() {
             <h2>The Brutal Martain Landscape</h2>
             <div>
                 <p>Description</p>
-                <p>Test Test Test Test Test Test Test Test </p>
+                <p>Test Description</p>
             </div>
             <button>
             <i className="fa-solid fa-arrow-right"></i>

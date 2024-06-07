@@ -99,5 +99,15 @@ footer {
 }
 
 @media (min-width: 640px) {
-  
+  .sidebar {
+    position: relative;
+    inset: unset;
+    min-width: 30% ;
+    box-shadow: 0 0 40px 1px #030615;
+  }
+
+  .sidebarContents {
+    margin: unset;
+  }
+
 }
